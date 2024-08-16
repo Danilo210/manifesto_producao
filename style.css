@@ -1,0 +1,28 @@
+body {
+    background : linear-gradient(45deg, #D64040 38%, #E87E34 100%);
+}
+
+table, th, td {
+    padding: 15px;
+    width: 90%;
+    table-layout: fixed;
+    text-align: center;
+    margin: auto;
+    
+    background: rgba( 255, 255, 255, 0.35 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 13.5px );
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center; 
+}
+
+.cabecalho{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10PX;
+    width: 90%;
+    margin: auto;
+    padding: 2px;
+}
